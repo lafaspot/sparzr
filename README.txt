@@ -8,4 +8,4 @@ $ mvn clean install
 $ mvn clean deploy -Dgpg.passphrase=[pathPhrase]
 
 - All Pull requests need to pass continous integration before being merged.
-  Please goto https://travis-ci.org/lafaspot/common
+  Please goto https://travis-ci.org/lafaspot/sparzr
