@@ -20,6 +20,13 @@
             <email>jpowang@yahoo.com</email>
         </developer>
     </developers>
+    
+    <scm>
+        <developerConnection>scm:git:https://github.com/lafa/sparzr.git</developerConnection>
+        <connection>scm:git:https://github.com/lafa/sparzr.git</connection>
+        <url>https://github.com/lafa/sparzr.git</url>
+        <tag>sparzr-1.0</tag>
+    </scm>
 
     <issueManagement>
         <system>GitHub</system>
