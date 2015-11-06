@@ -5,13 +5,12 @@
   <parent>
     <groupId>com.github.lafa.sparzr</groupId>
     <artifactId>sparzr</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
-  <groupId>com.github.lafa.sparzr</groupId>
-  <artifactId>core</artifactId>
-  <version>1.0.0</version>
-  <name>core</name>
-  <url>http://maven.apache.org</url>
+  <artifactId>sparzr.core</artifactId>
+  <name>${project.artifactId}</name>
+  <url>https://github.com/lafaspot/sparzr</url>
+  <description>sparzr component ${project.name}</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <main.basedir>${project.parent.basedir}</main.basedir>
