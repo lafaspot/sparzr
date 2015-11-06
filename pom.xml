@@ -5,9 +5,9 @@
     <groupId>com.github.lafa.sparzr</groupId>
     <artifactId>sparzr</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>${project.artifactId}</name>
-    <url>https://github.com/lafa/sparzr</url>
+    <url>https://github.com/lafaspot/sparzr</url>
     <description>Parent POM file for sparzr project</description>
     <prerequisites>
         <maven>3.0</maven>
